@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/my">
+        <file>res/checkbox_checked.png</file>
+        <file>res/checkbox_unchecked.png</file>
+        <file>res/radio_checked.png</file>
+        <file>res/radio_unchecked.png</file>
+        <file>res/white.png</file>
+        <file>res/black.png</file>
+        <file>res/background.jpg</file>
+        <file>res/chessHit.wav</file>
+        <file>res/fail.wav</file>
+        <file>res/win.wav</file>
+    </qresource>
+</RCC>
